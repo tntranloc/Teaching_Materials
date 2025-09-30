@@ -12,10 +12,10 @@ The materials were curated for public sharing in 2025.
 - Making sampling maps
 - Multivariate evolution
 
-## Extra Topics:
+## Additional Topics:
 - Project Planner
 - How to make an effective poster
-- Giving feedback
+- Giving and receiving feedback
 
 ## Repository Structure
 In each dedicated folder: 
