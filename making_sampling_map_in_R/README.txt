@@ -1,1 +1,3 @@
-# Example of how to make nice geographical map and add sampling points, completely in R
+# Example of how to make nice data sampling map in R
+  # basic geographical map
+  # complex plot with overlay of climatic conditions and sampling points
