@@ -1,5 +1,5 @@
-# Teaching Materials: Computational Biology | Quantitative Biology
-# Author: Nhu Loc Thuy Tran 
+# Teaching Materials: Computational & Quantitative Biology | Scientific Presentations
+## Author: Nhu Loc Thuy Tran 
 
 This repository contains teaching materials I developed for students during my PhD (2022–2025).  
 The materials were curated for public sharing in 2025.  
@@ -10,7 +10,12 @@ The materials were curated for public sharing in 2025.
 - Biostatistics basics
 - First hands-on in Bash/HPC environment with GWAS
 - Making sampling maps
-- Multivariate evolution 
+- Multivariate evolution
+
+## Extra Topics:
+- Project Planner
+- How to make an effective poster
+- Giving feedback
 
 ## Repository Structure
 In each dedicated folder: 
